@@ -4,6 +4,8 @@ public class Emp {
 	private String name;
 	private String hello;
 	private String maryy;
+	private String hil;
+	private String add;
 	public String getName() {
 		return name;
 	}
