@@ -4,6 +4,7 @@ public class Emp {
 	private String name;
 	private String hello;
 	private String maryy;
+	private String mary;
 	public String getName() {
 		return name;
 	}
@@ -26,5 +27,13 @@ public class Emp {
 
 	public void setMaryy(String maryy) {
 		this.maryy = maryy;
+	}
+
+	public String getMary() {
+		return mary;
+	}
+
+	public void setMary(String mary) {
+		this.mary = mary;
 	}
 }
